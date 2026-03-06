@@ -1,0 +1,43 @@
+{
+  "Americas & MEA": {
+    "By Product Type": {
+      "Horizontal Meat Mixers": {},
+      "Vertical Meat Mixers": {},
+      "Bowl Meat Mixers": {},
+      "Continuous Meat Mixers": {}
+    },
+    "By Features": {
+      "Automatic Meat Mixers": {},
+      "Semi-Automatic Meat Mixers": {},
+      "Manual Meat Mixers": {}
+    },
+    "By Type of Meat": {
+      "Beef": {},
+      "Poultry": {},
+      "Pork": {},
+      "Lamb": {},
+      "Others (Fish, etc.)": {}
+    },
+    "By Mixing Capacity": {
+      "Medium (51 kg to 200 kg)": {},
+      "Large (Above 200 kg)": {},
+      "Small (Up to 50 kg)": {}
+    },
+    "By Application": {
+      "Meat Processing Plants": {},
+      "Supermarkets & Retail Chains": {},
+      "Restaurants & Catering Services": {},
+      "Butcher Shops": {}
+    },
+    "By Distribution Channel": {
+      "Direct Sales": {},
+      "Distributors & Wholesalers": {},
+      "Retail & Online Sales": {}
+    },
+    "By Region": {
+      "North America": {},
+      "Latin America": {},
+      "Middle East & Africa": {}
+    }
+  }
+}
