@@ -148,6 +148,46 @@ const oemData: OEMData[] = [
     keyDistributorIntegratorApproach: 'Regional Dealers, Import Partners',
     keyInsights: '3% share, niche player in artisan segment with Italian craftsmanship'
   }
+,
+  {
+    oemManufacturerName: 'SKYMSEN',
+    hqCountry: 'Brazil',
+    primaryDoorTypeFocus: 'Meat Mixers, Grinders, Slicers, Food Processing Equipment',
+    automationFocus: 'Semi Automation, Mechanized',
+    materialFocus: 'Stainless Steel, Local Grade Materials',
+    keyEndUseFocus: 'Butcher Shops, Supermarkets, Small Processors',
+    goToMarketChannels: 'Dealer Network, Latin America Export Partners',
+    serviceAftermarketStrength: 'Moderate - Dealer-dependent, Local Coverage',
+    typicalPositioning: 'Value to Mid',
+    keyDistributorIntegratorApproach: 'Latin America Distributors, Retail Partners',
+    keyInsights: '3% share, dominant in Latin America value segment with cost-competitive solutions'
+  },
+  {
+    oemManufacturerName: 'Ram Beef Equipment LLC',
+    hqCountry: 'South Africa',
+    primaryDoorTypeFocus: 'Beef Mixers, Mincing Equipment, Butchery Machines',
+    automationFocus: 'Manual to Semi Automation',
+    materialFocus: 'Stainless Steel, Food-grade Materials',
+    keyEndUseFocus: 'Butcheries, Small Meat Processors, Retail Butchers',
+    goToMarketChannels: 'Direct Sales, Regional Agents',
+    serviceAftermarketStrength: 'Limited - Direct Service',
+    typicalPositioning: 'Value',
+    keyDistributorIntegratorApproach: 'Direct Sales, MEA Agents',
+    keyInsights: 'MEA-focused niche player specializing in beef processing for the African butchery market'
+  },
+  {
+    oemManufacturerName: 'Roser Food Equipment',
+    hqCountry: 'Spain',
+    primaryDoorTypeFocus: 'Meat Mixers, Marinators, Food Processing Machinery',
+    automationFocus: 'Semi to Full Automation',
+    materialFocus: 'Stainless Steel, European Food-grade Standards',
+    keyEndUseFocus: 'Meat Processing, Charcuterie, Industrial Food Plants',
+    goToMarketChannels: 'Distributor Network, Export Partners',
+    serviceAftermarketStrength: 'Moderate - European Service Network',
+    typicalPositioning: 'Mid',
+    keyDistributorIntegratorApproach: 'European and Latin America Distributors',
+    keyInsights: 'European OEM expanding into MEA via distributor network; specializes in marinating and mixing integration'
+  }
 ]
 
 // Meat Mixer Distributor Data

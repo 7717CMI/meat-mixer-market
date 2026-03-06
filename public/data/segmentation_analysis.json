@@ -16,12 +16,12 @@
       "Poultry": {},
       "Pork": {},
       "Lamb": {},
-      "Others (Fish, etc.)": {}
+      "Others (fish, etc.)": {}
     },
     "By Mixing Capacity": {
       "Medium (51 kg to 200 kg)": {},
-      "Large (Above 200 kg)": {},
-      "Small (Up to 50 kg)": {}
+      "Large (above 200 kg)": {},
+      "Small (up to 50 kg)": {}
     },
     "By Application": {
       "Meat Processing Plants": {},
@@ -30,7 +30,7 @@
       "Butcher Shops": {}
     },
     "By Distribution Channel": {
-      "Direct Sales": {},
+      "Direct Sales (Manufacturers to End-Users)": {},
       "Distributors & Wholesalers": {},
       "Retail & Online Sales": {}
     },
